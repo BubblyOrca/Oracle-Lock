@@ -2,7 +2,7 @@
 
 <!-- image -->
 <p align="center">
-  <img src="OracleLock.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
+  <img src="Red Dark Blue Modern Minimalist Letter O Logo-2.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
 </p>
 
 ----
