@@ -1,10 +1,8 @@
 ## OracleLock
-
 <!-- image -->
 <p align="center">
   <img src="Red Dark Blue Modern Minimalist Letter O Logo-2.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
 </p>
-
 ----
 ## About :star:!
 OracleLock is a decentralized program that manages the security of oracles within the blockchain industry. An oracle serves a conduit between the blockchain and real-world sending data in and out. Oracles feed smart contracts data, answers questions about the world and controls the inputs to the smart contracts. For prediction markets in DeFi, the oracle is the main data source that inputs necessary real-time data to the oracle. Chainlink and Gnosis are the best known crypto projects with oracle capibilities. OracleLock is step for the oracle problem with 0 centralization. OracleLock ensures oracle safety and security during transcations.
