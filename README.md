@@ -1,4 +1,4 @@
-## OracleLock
+## Oracle Lock: Verification of Chainlink oracle data feeds
 <!-- image -->
 <p align="center">
   <img src="Red Dark Blue Modern Minimalist Letter O Logo-2.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
